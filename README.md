@@ -1,4 +1,4 @@
-AntiCheatReloaded Latest Release Downloads Last Commit
+AntiCheatReloaded Latest Release
 AntiCheatReloaded helps server admins combat the use of hacked clients and spambots. It analyses the behavior of players and can prevent malicious gameplay. The plugin offers a lot of customizability and can be connected across multiple servers in case it is used in a server network context. AntiCheatReloaded is based on gravitylow's AntiCheat and has been around since 2012.
 
 Installation
@@ -14,34 +14,65 @@ Your server implementation (Craftbukkit/Spigot/Other) and it's version
 Your ProtocolLib version
 Whether or not you are using protocol hacks (ViaVersion etc.)
 Any logs relating to the issue
+
 Hacks blocked
+
 Flight/Glide
+
 ElytraFly
+
 WaterWalk/Jesus
+
 FastBreak
+
 FastPlace
+
 Chat spam
+
 Command spam
+
 Sprint
+
 (Packet)Sneak
+
 Speed
+
 Vclip
+
 Spider
+
 NoFall
+
 FastBow
+
 FastEat
+
 FastHeal
+
 KillAura
+
 Aimbot
+
 Reach
+
 Unicode chat
+
 FastProjectile
+
 ItemSpam
+
 FastInventory
+
 Timer
+
 Blink
+
 Anti-Knockback
+
 Scaffold
+
 FastLadder
+
 Strafe
+
 NoSlow
